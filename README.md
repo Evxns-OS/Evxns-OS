@@ -8,7 +8,7 @@
 
 <br>
 
-I design, build, and ship production software end-to-end — from database architecture to deployment — and I'm currently developing a parallel specialization in offensive and defensive security to build systems that are not just functional, but resilient.
+I design, build, and ship production software end-to-end - from database architecture to deployment and I'm currently developing a parallel specialization in offensive and defensive security to build systems that are not just functional, but resilient.
 
 <br>
 
