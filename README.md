@@ -1,4 +1,15 @@
-<div align="center">
+<table>
+<tr>
+<td width="40%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="my GitHub profile" src="dark_mode.svg" />
+</picture>
+
+</td>
+<td width="60%">
 
 # Hi, I'm Evans
 
@@ -6,11 +17,7 @@
 
 <sub>Final-Year Computer Science Student, Federal University Kashere, Nigeria</sub>
 
-<br>
-
-I design, build, and ship production software end-to-end - from database architecture to deployment and I'm currently developing a parallel specialization in offensive and defensive security to build systems that are not just functional, but resilient.
-
-<br>
+I design, build, and ship production software end-to-end — from database architecture to deployment — and I'm currently developing a parallel specialization in offensive and defensive security to build systems that are not just functional, but resilient.
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -18,7 +25,9 @@ I design, build, and ship production software end-to-end - from database archite
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Security_Research-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 ## 🧭 About Me
 
