@@ -20,13 +20,29 @@ I design, build, and ship production software end-to-end - from database archite
 
 </div>
 
-## About
+## 🧭 About Me
 
-I'm a final-year Computer Science student at Federal University Kashere, Nigeria, and the solo founder and developer of **Interllix** — an edtech SaaS platform built to serve Nigerian university students at scale. I've taken it from a blank database schema to a live product handling real users, real payments, and real edge cases: architecting the backend, integrating payment infrastructure, and building a real-time AI assistant from the ground up.
+<table>
+<tr>
+<td>
 
-Production systems reveal what tutorials never teach. I've spent as much time debugging race conditions, access control policies, and deployment failures as I have shipping new features — and that discipline is what separates a working demo from a product people can depend on.
+> **Final-year CS student** @ Federal University Kashere, Nigeria 🇳🇬  
+> **Founder & Solo Engineer** @ Interllix — an edtech SaaS platform built for scale  
+> **Security Analyst in Training** — offensive & defensive fundamentals
 
-That same instinct is why I'm now completing a structured, self-directed program in offensive and defensive security — covering web exploitation, network penetration testing, and cloud security fundamentals. I don't just want to build software that works. I want to build software that holds up under real scrutiny.
+I take products from **blank schema → live users, real payments, real edge cases.** Production has taught me more than any tutorial: race conditions, access-control bugs, deployment failures — the discipline that separates a demo from something people depend on.
+
+That same instinct is pulling me into **security** — web exploitation, network pentesting, cloud fundamentals — because I don't just want software that *works*. I want software that **holds up under real scrutiny.**
+
+</td>
+</tr>
+</table>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Building_Interllix-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Security_%2B_Full--Stack-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Based_in-Nigeria-2ECC71?style=flat-square"/>
+</p>
 
 ## GitHub Metrics
 
