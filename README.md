@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Evxns-OS/Evxns-OS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Evans
 
-Here are some ideas to get you started:
+### Full-Stack Developer · Founder & Solo Engineer at Interllix · Security Analyst in Training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Final-Year Computer Science Student, Federal University Kashere, Nigeria</sub>
+
+<br>
+
+I design, build, and ship production software end-to-end — from database architecture to deployment — and I'm currently developing a parallel specialization in offensive and defensive security to build systems that are not just functional, but resilient.
+
+<br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Security_Research-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+
+</div>
