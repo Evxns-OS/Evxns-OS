@@ -17,7 +17,7 @@
 
 <sub>Final-Year Computer Science Student, Federal University Kashere, Nigeria</sub>
 
-I design, build, and ship production software end-to-end — from database architecture to deployment — and I'm currently developing a parallel specialization in offensive and defensive security to build systems that are not just functional, but resilient.
+I design, build, and ship production software end-to-end from database architecture to deployment and I'm currently developing a parallel specialization in offensive and defensive security to build systems that are not just functional, but resilient.
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
