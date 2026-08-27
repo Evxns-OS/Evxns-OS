@@ -27,3 +27,7 @@ I'm a final-year Computer Science student at Federal University Kashere, Nigeria
 Production systems reveal what tutorials never teach. I've spent as much time debugging race conditions, access control policies, and deployment failures as I have shipping new features — and that discipline is what separates a working demo from a product people can depend on.
 
 That same instinct is why I'm now completing a structured, self-directed program in offensive and defensive security — covering web exploitation, network penetration testing, and cloud security fundamentals. I don't just want to build software that works. I want to build software that holds up under real scrutiny.
+
+## GitHub Metrics
+
+![Metrics](./metrics.svg)
